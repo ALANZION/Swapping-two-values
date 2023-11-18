@@ -30,8 +30,10 @@ a=b
 b=c
 print("Swapped values are:",a,b)
 ```
-## Output
-![Alt text](image.png)
+# Output
+![Screenshot 2023-11-18 202231](https://github.com/ALANZION/Swapping-two-values/assets/145743064/ff3158f1-49d8-48c7-a1ab-a484223ebe0f)
+
+
 
 
 
